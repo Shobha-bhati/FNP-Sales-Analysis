@@ -7,21 +7,32 @@ usiness Questions and Insights – Detailed Analysis
 The dashboard answers ten critical business questions. Below is a detailed breakdown of each:
 
 1. What is the Total Revenue?
+   
 FNP achieved a total revenue of ₹35,20,984, reflecting strong consumer demand across multiple products and regions.
 
-2. What is the Average Order Delivery Time?
+3. What is the Average Order Delivery Time?
+
+   
 Orders were delivered in an average of 5.5 days, indicating an efficient but improvable delivery system, especially during peak seasons.
 
-3. How Do Sales Vary Across Months?
+5. How Do Sales Vary Across Months?
+
+   
 Sales peaked in February, August, and October, aligning with Valentine’s Day, Raksha Bandhan, and Diwali, respectively. Sales dipped between March and June, highlighting clear seasonal patterns.
 
-4. Which Products Generate the Most Revenue?
+7. Which Products Generate the Most Revenue?
+
+   
 The Quiz Gift and Dodger Gift emerged as the highest revenue generators, consistently outperforming other SKUs across seasons.
 
-5. What is the Average Customer Spending?
+9. What is the Average Customer Spending?
+
+    
 Customers spent an average of ₹3,520.98 per order, helping FNP gauge its current pricing strategy and customer value.
 
-6. Who Are the Top 5 Products by Sales Performance?
+11. Who Are the Top 5 Products by Sales Performance?
+
+    
 The top 5 products contributing to revenue were:
 
 Quiz Gift
