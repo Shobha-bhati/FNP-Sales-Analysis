@@ -48,24 +48,34 @@ Zen Planter
 These should be prioritized in promotions and stock management.
 
 7. Top 10 Cities by Number of Orders?
+   
 Cities with the most orders include:
 
 Indore, Kanpur, MochhaliPat, Dwarka, Gurgaon, Bhopara, Jaitpura, Pune, Nagpur, and Lucknow
 These cities represent high-potential markets for localized offers.
 
 8. Order Quantity vs. Delivery Time: Any Correlation?
+   
 There is no significant correlation between order size and delivery delay. Larger orders take marginally more time but remain within acceptable limits.
 
-9. Which Occasions Drive the Most Revenue?
+10. Which Occasions Drive the Most Revenue?
+    
 The highest revenues are generated during Anniversaries and Raksha Bandhan, highlighting the emotional and cultural importance of these occasions in consumer behavior.
 
-10. Which Products Are Most Popular for Each Occasion?
+12. Which Products Are Most Popular for Each Occasion?
+    
 Soft Toys and Combos dominated Valentine’s Day and Raksha Bandhan.
 
 Plants and Home Decor sold more during Diwali and Anniversaries.
+
 This segmentation supports occasion-based product planning and personalization.
 
 
+
+
 Business Impact
+
+
+
 This project provides FNP with a strategic edge by enabling data-driven marketing during peak occasions, optimizing city-specific logistics, supporting effective product bundling and pricing, and enhancing customer satisfaction through personalized and timely offerings. The dashboard serves as a valuable tool for making informed, actionable business decisions.
 
